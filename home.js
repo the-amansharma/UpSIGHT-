@@ -38,9 +38,5 @@ document.addEventListener('DOMContentLoaded', function() {
         delay: 2 
     });
 
-    
-
-    
-
-  
+      
 });
